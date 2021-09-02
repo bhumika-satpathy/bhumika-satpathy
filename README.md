@@ -1,7 +1,7 @@
 ## Hey folks, I am Bhumika 👋
 ### I'm a Software Engineer :woman_office_worker:, based in Bangalore, India. Currently, I am in Kolkata due to lockdown.
 
-- 🏢 I'm currently working with Visa.
+- 🏢 I'm currently working with Flipkart.
 - 🌱 **Learning more about and working:** Distributed Systems, SpringBoot, Java, CS Algorithms.
 - 📫 **Reach me:** [Twitter](https://twitter.com/_bhumika99/) :rabbit2: satpathyakimuhb@gmail.com ✉️
 - 💜 **Interests:** Books 📚, Travelling :earth_africa:, Vlogging(I wish to start my own travel channel someday :P).
