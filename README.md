@@ -8,7 +8,7 @@
 - 😄 Passionate about building accessible software and helping underrepresented folks get into tech.
 - :hearts: I absolutely love :smiley_cat:s and :dog:s. 
 
-At the crux of all this, lies my love to learn. Let's connect over a coffee :coffee: cause, well nothing can ever go wrong over a coffee xD. 
+At the crux of all this, lies my love to learn. Let's connect over a coffee :coffee: cause nothing can ever go wrong over a coffee xD. 
 I also play badminton, and watch a lot of TV shows. 
 If you want to talk about any of these, please connect.
 
