@@ -1,6 +1,5 @@
 ## Hey folks, I am Bhumika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm a Software Engineer :woman_office_worker:, based in Bangalore, India. Currently, I am in Kolkata due to lockdown.
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bhumika-satpathy&left_color=gray&right_color=blue)
 
 - 🏢 I'm currently working with Flipkart.
 - 🌱 **Learning more about and working:** Distributed Systems, SpringBoot, Java, CS Algorithms.
